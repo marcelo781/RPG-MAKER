@@ -2,6 +2,10 @@
 null,
 {"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Escudo","note":"","params":[0,0,0,20,0,0,0,0],"price":300},
 {"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Chapéu","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Roupas","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel","note":"","params":[0,0,0,0,10,0,0,0],"price":300}
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Armadura","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":5,"description":"Um escudo sagrado, forjado com as bençãos dos deuses \nda terra santa de Valhala. Reduz o custo de mágicas.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05},{"code":21,"dataId":3,"value":1},{"code":22,"dataId":5,"value":0.2},{"code":23,"dataId":4,"value":0.5}],"iconIndex":81,"name":"Escudo Sagrado de Valhala.","note":"","params":[50,0,0,50,0,50,0,0],"price":100},
+{"id":6,"atypeId":3,"description":"Uma bandana usada pelos ninjas de Nihai. Aumenta \nsua agilidade. ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.5},{"code":21,"dataId":6,"value":1}],"iconIndex":130,"name":"Bandana Furtiva","note":"","params":[10,10,10,20,5,20,50,0],"price":50},
+{"id":7,"atypeId":1,"description":"Uma armadura usada pelos cavaleiros reais do reino de \nSoleanna, está um pouco danificada, mas é resistente.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":6,"value":1},{"code":21,"dataId":0,"value":1},{"code":21,"dataId":1,"value":1},{"code":21,"dataId":5,"value":1},{"code":21,"dataId":3,"value":1}],"iconIndex":137,"name":"Armadura de Cavaleiro Danificada","note":"","params":[100,50,5,50,10,50,0,0],"price":150},
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
